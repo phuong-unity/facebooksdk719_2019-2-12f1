@@ -8,8 +8,8 @@
         <androidPackage spec="com.facebook.android:facebook-share:[5,6)" />
     </androidPackages>
     <iosPods>
-        <iosPod name="FBSDKCoreKit" version="~> 5.13" />
-        <iosPod name="FBSDKLoginKit" version="~> 5.13" />
-        <iosPod name="FBSDKShareKit" version="~> 5.13" />
+        <iosPod name="FBSDKCoreKit" version="~> 5.13.0" />
+        <iosPod name="FBSDKLoginKit" version="~> 5.13.0" />
+        <iosPod name="FBSDKShareKit" version="~> 5.13.0" />
     </iosPods>
 </dependencies>
